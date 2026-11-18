@@ -1,0 +1,6 @@
+{
+  "name": "Portal Advokasi PHTC 2026 — Direktorat SD",
+  "description": "Portal Resmi Narasumber & Guru SD untuk Advokasi Program Hasil Terbaik Cepat (APHTC) Tahun 2026: Pra-Hari H Asinkronus, Skenario Pleno 20–21 November 2026, Rencana Moderasi, Instrumen Interaktif, dan Pustaka Dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
